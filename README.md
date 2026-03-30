@@ -29,15 +29,15 @@ Ensure your folder is structured exactly as follows for the script to locate the
 ## 4. Step-by-Step Execution Guide
 
 ### Step 1: Open Terminal/Command Prompt
-Navigate to the root directory where you have extracted the project files.
-```bash
-cd path/to/your/project_folder
+    Navigate to the root directory where you have extracted the project files.
+    ```bash
+    cd path/to/your/project_folder
 
 ### Step 2: Launch the Streamlit Application
 Run the following command to start the local web server.
 
-```bash
-streamlit run streamlit_app.py
+    ```bash
+    streamlit run streamlit_app.py
 
 ### Step 3: Access the Interface
 Once the command is executed, Streamlit will automatically open a new tab in your default web browser (usually at http://localhost:8501).
